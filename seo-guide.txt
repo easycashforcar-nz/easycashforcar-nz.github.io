@@ -1,0 +1,43 @@
+# SEO Optimization Guide for Easy Cash for Car NZ
+
+## Page Title Optimization
+Each city page should have a unique, keyword-rich title like:
+- `Cash for Car Auckland | Sell Your Car Fast in Auckland | Easy Cash for Car NZ`
+- `Christchurch Car Buyers | Get Cash for Your Car in Christchurch | Easy Cash for Car NZ`
+
+## Meta Description Template
+Each page needs a unique meta description (150-160 characters):
+`Get cash for your car in [City Name] with Easy Cash for Car NZ. Fast, reliable service. Free quote in minutes. Sell your car today!`
+
+## Header Structure (H1, H2, H3)
+```
+H1: Cash for Car [City Name] - Fast & Reliable Service
+H2: Why Choose Our Car Buying Service in [City Name]?
+H2: How to Sell Your Car for Cash in [City Name]
+H3: Steps to Sell Your Car
+H3: Required Documents
+H2: Areas We Serve Near [City Name]
+```
+
+## Internal Linking Strategy
+- Link from city pages to the main service pages
+- Cross-link between related city pages
+- Use descriptive anchor text with keywords
+
+## Local SEO Elements
+- Include city name in URLs: `/auckland` or `auckland-car-buyers.html`
+- Add local schema markup with city-specific details
+- Include local landmarks and neighborhoods in content where relevant
+
+## Image Optimization
+- Use descriptive file names: `auckland-car-pickup.jpg`
+- Include alt text: `alt="Cash for car service pickup in Auckland"`
+- Compress images for faster loading
+
+## Content Elements for Each City Page
+1. Introduction paragraph about service in that city
+2. List of neighborhoods served
+3. Local testimonials (if available)
+4. Common car models bought in that region
+5. Average response time in that city
+6. Local regulations or requirements
